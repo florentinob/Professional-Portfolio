@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://i2.wp.com/background4free.com/download/blue_aqua_turquoise_681502548.jpg?q=100);
+    background-size: cover;
+}
+.navbar {
+    min-height: 90px;
+    font-size: 20px;
+}
+.card {
+    margin-bottom: 80px;
+    margin: auto;
+    margin-top: 60px;
+}
+.card-deck {
+    margin-bottom: 80px;
+}
